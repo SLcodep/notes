@@ -6,7 +6,7 @@ export default defineConfig({
   title: "SLcodep的笔记",
   description: "一个vitePress站点",
   //配置网址图标
-  head:[["link",{rel:"icon",href:"/log.png"}]],
+  head:[["link",{rel:"icon",href:"/notes/public/log.png"}]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     //右侧导航栏默认索引
