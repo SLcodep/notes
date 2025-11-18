@@ -37,7 +37,7 @@ export default defineConfig({
       {
         text: '手写题',link: '/Notes/前端/手写题'
       },
-      { text: 'Home', link: '/Notes/相关内容/简介.md' }
+      { text: '相关内容', link: '/Notes/相关内容/简介.md' }
     ],
     //用来配置左侧导航栏的
     sidebar: {
