@@ -36,14 +36,16 @@ export default defineConfig({
       },
       {
         text: '手写题',link: '/Notes/前端/手写题'
-      }
+      },
+      { text: 'Home', link: '/Notes/相关内容/简介.md' }
     ],
-
+    //用来配置左侧导航栏的
     sidebar: {
       "/Notes/前端/javascript/": set_sidebar("Notes/前端/javascript/"),
       "/Notes/前端/Vue": set_sidebar("Notes/前端/Vue"),
       "/Notes/前端/前端面试题": set_sidebar("Notes/前端/前端面试题"),
-      "/Notes/前端/手写题": set_sidebar("Notes/前端/手写题")
+      "/Notes/前端/手写题": set_sidebar("Notes/前端/手写题"),
+      "/Notes/相关内容": set_sidebar("/Notes/相关内容")
     },
 
     socialLinks: [
