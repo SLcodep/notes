@@ -31,6 +31,7 @@ export default defineConfig({
           {text: '前端Vue篇', link: '/Notes/前端/前端面试题/前端面试之Vue篇'},
           { text: '前端React篇', link: '/Notes/前端/前端面试题/前端面试之React篇' },
           { text: '前端HTTP篇', link: '/Notes/前端/前端面试题/前端面试之HTTP篇' },
+          { text: '场景题', link: '/Notes/前端/前端面试题/前端面试之场景题/场景题.md' }
         ]
       },
       {
