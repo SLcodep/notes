@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { set_sidebar } from "./utils/auto.mjs"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:"/notes/",
+  base:"/notes",
   title: "SLcodep的笔记",
   description: "一个vitePress站点",
   //配置网址图标
