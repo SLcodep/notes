@@ -7,7 +7,7 @@ hero:
   text: "前端小白的学习文档"
   tagline: 持续学习，持续进步
   image:
-   src: /notes/public/background.svg
+   src: /public/background.svg
    alt: 背景图
   actions:
     - theme: brand
